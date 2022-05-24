@@ -1,0 +1,7 @@
+{
+    "configuration": "PSRAM=enabled,PartitionScheme=default,CPUFreq=240,UploadSpeed=921600,DebugLevel=error",
+    "board": "m5stack:esp32:m5stack-core2",
+    "port": "COM3",
+    "sketch": "csp.ino",
+    "output": "csp"
+}
